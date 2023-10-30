@@ -1,5 +1,5 @@
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,haskell,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,html,css,haskell,vscode,linux,sql)](https://skillicons.dev)
 
 
 # Hei, jeg er Aleksander! 👋
