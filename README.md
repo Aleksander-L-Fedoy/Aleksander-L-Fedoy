@@ -1,4 +1,4 @@
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css) 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 ![Java](link-til-java-ikon) 
 ![SQL](link-til-sql-ikon) 
 ![React](link-til-react-ikon) 
