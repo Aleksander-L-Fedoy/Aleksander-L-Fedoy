@@ -1,9 +1,13 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div align="center">
-<i class="devicon-python-plain"></i>
-  <i class="devicon-python-plain"></i>
-  <i class="devicon-python-plain"></i>
-  <i class="devicon-python-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
 </div>
 
 # Hei, jeg er Aleksander! 👋
