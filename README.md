@@ -1,3 +1,10 @@
+![Python](<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">) 
+![Java](link-til-java-ikon) 
+![SQL](link-til-sql-ikon) 
+![React](link-til-react-ikon) 
+![Vue](link-til-vue-ikon) 
+![Svelte](link-til-svelte-ikon) 
+
 # Hei, jeg er Aleksander! 👋
 
 🎓 **Utdanning:** Masterutdannet lektor med en sterk bakgrunn i matematikk. Nåværende informatikk-student ved Universitetet i Bergen.
