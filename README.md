@@ -1,4 +1,4 @@
-![Python](<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">) 
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css) 
 ![Java](link-til-java-ikon) 
 ![SQL](link-til-sql-ikon) 
 ![React](link-til-react-ikon) 
