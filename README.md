@@ -1,5 +1,7 @@
 <p align="center">
+  <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  </p>
 </p>
 
 # Hei, jeg er Aleksander! 👋
