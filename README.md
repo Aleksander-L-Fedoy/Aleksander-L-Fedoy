@@ -1,9 +1,6 @@
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-![Java](link-til-java-ikon) 
-![SQL](link-til-sql-ikon) 
-![React](link-til-react-ikon) 
-![Vue](link-til-vue-ikon) 
-![Svelte](link-til-svelte-ikon) 
+</p>
 
 # Hei, jeg er Aleksander! 👋
 
