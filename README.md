@@ -1,5 +1,10 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aleksander-L-Fedoy.Aleksander-L-Fedoy" />
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,java,html,css,haskell,vscode,linux,sql)](https://skillicons.dev)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heisann!+👋;+Jeg+er+Aleksander!+👨‍💻;" />
+</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,java,html,css,haskell,vscode,linux,sql,git,r)](https://skillicons.dev)
 
 
 # Hei, jeg er Aleksander! 👋
